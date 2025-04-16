@@ -1,5 +1,6 @@
 # ✨ FlashHome: Instant Home Notifications (Ruby Prototype)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white) 
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+
 **A tiny Ruby prototype for sending quick messages to your phone & smart home—like a widget-triggered Alexa announcement or light alert!**
 
 ## 💡 The Idea
